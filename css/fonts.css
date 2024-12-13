@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Monstserra Bold";
+  src: url("../fonts/Montserra/Montserrat-Bold.woff") format("woff"),
+    url("../fonts/Montserra/Montserrat-Bold.woff2") format("woff2"),
+    url("../fonts/Montserra/Montserrat-Bold.ttf") format("TrueType");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Monstserra ExtraBold";
+  src: url("../fonts/Montserra/Montserrat-ExtraBold.woff") format("woff"),
+    url("../fonts/Montserra/Montserrat-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Montserra/Montserrat-ExtraBold.ttf") format("TrueType");
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: "Monstserra Reg";
+  src: url("../fonts/Montserra/Montserrat-Regular.woff") format("woff"),
+    url("../fonts/Montserra/Montserrat-Regular.woff2") format("woff2"),
+    url("../fonts/Montserra/Montserrat-Regular.ttf") format("TrueType");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Monstserra Light";
+  src: url("../fonts/Montserra/Montserrat-Thin.woff") format("woff"),
+    url("../fonts/Montserra/Montserrat-Thin.woff2") format("woff2"),
+    url("../fonts/Montserra/Montserrat-Thin.ttf") format("TrueType");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Monstserra Thin";
+  src: url("../fonts/Montserra/Montserrat-Light.woff") format("woff"),
+    url("../fonts/Montserra/Montserrat-Light.woff2") format("woff2"),
+    url("../fonts/Montserra/Montserrat-Light.ttf") format("TrueType");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Poppins Reg";
+  src: url("../fonts/Poppins/Poppins-Regular.woff") format("woff"),
+    url("../fonts/Poppins/Poppins-Regular.woff2") format("woff2"),
+    url("../fonts/Poppins/Poppins-Regular.ttf") format("TrueType");
+}
